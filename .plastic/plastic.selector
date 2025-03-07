@@ -1,0 +1,3 @@
+repository "Cube Jump@Loscocochas@cloud"
+  path "/"
+    smartbranch "/main/Esteban"
